@@ -6,13 +6,12 @@ public abstract class Employee {
     private final String lastName;
     private final String socialSecurityNumber;
 
-    private final String school;
 
-    public Employee(String firstName, String lastName, String socialSecurityNumber, String school) {
+
+    public Employee(String firstName, String lastName, String socialSecurityNumber) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.socialSecurityNumber = socialSecurityNumber;
-        this.school = school;
 
     }
 
