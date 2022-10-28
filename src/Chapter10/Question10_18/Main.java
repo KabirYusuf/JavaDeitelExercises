@@ -30,6 +30,7 @@ public class Main {
             System.out.printf("Payment Due: %f%n%n",currentPayable.getPaymentAmount());
 
         }
+
     }
 
 }

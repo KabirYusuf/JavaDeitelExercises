@@ -1,6 +1,6 @@
 package chapter4Test;
 
-import Chapter4.CommissionCalculator;
+import chapter4.CommissionCalculator;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
